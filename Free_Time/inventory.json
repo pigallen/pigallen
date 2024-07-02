@@ -1,0 +1,352 @@
+[
+    {
+        "isbn": "7229842727936",
+        "title": "Legend Quest The Chronicle",
+        "author": "Christina Williams",
+        "price": 24.31,
+        "stock": 20
+    },
+    {
+        "isbn": "7047466984606",
+        "title": "Chronicle Adventure A Adventure",
+        "author": "Jane Miller",
+        "price": 8.2,
+        "stock": 8
+    },
+    {
+        "isbn": "6616428081595",
+        "title": "The Legend Adventure Saga",
+        "author": "Alice Williams",
+        "price": 40.01,
+        "stock": 24
+    },
+    {
+        "isbn": "5267102092482",
+        "title": "An Quest Saga Mystery",
+        "author": "Christina Davis",
+        "price": 30.42,
+        "stock": 48
+    },
+    {
+        "isbn": "6658597199886",
+        "title": "Chronicle Mystery Mystery Legend",
+        "author": "Alice Smith",
+        "price": 30.35,
+        "stock": 28
+    },
+    {
+        "isbn": "7561907934169",
+        "title": "An Chronicle A Quest",
+        "author": "Jane Williams",
+        "price": 57.85,
+        "stock": 33
+    },
+    {
+        "isbn": "1887658876312",
+        "title": "Adventure Mystery Journey Quest",
+        "author": "Jane Brown",
+        "price": 9.86,
+        "stock": 18
+    },
+    {
+        "isbn": "0379589533961",
+        "title": "The Journey Adventure Quest",
+        "author": "John Johnson",
+        "price": 58.27,
+        "stock": 17
+    },
+    {
+        "isbn": "2308967277739",
+        "title": "Legend An The The",
+        "author": "John Davis",
+        "price": 83.11,
+        "stock": 20
+    },
+    {
+        "isbn": "6238663168165",
+        "title": "Chronicle The Adventure Legend",
+        "author": "Chris Johnson",
+        "price": 11.67,
+        "stock": 39
+    },
+    {
+        "isbn": "7963454428134",
+        "title": "Saga Chronicle An An",
+        "author": "Michelle Johnson",
+        "price": 33.96,
+        "stock": 28
+    },
+    {
+        "isbn": "7375108740277",
+        "title": "Mystery Quest Legend Chronicle",
+        "author": "Alex Miller",
+        "price": 42.85,
+        "stock": 14
+    },
+    {
+        "isbn": "7412016225698",
+        "title": "An Adventure A Legend",
+        "author": "Jane Brown",
+        "price": 9.61,
+        "stock": 18
+    },
+    {
+        "isbn": "9563702008414",
+        "title": "Saga An Legend Quest",
+        "author": "Chris Miller",
+        "price": 33.22,
+        "stock": 47
+    },
+    {
+        "isbn": "2596733097031",
+        "title": "An Journey An An",
+        "author": "John Williams",
+        "price": 34.44,
+        "stock": 23
+    },
+    {
+        "isbn": "2545739256718",
+        "title": "The Mystery Saga Mystery",
+        "author": "John Jones",
+        "price": 14.64,
+        "stock": 46
+    },
+    {
+        "isbn": "5019612260049",
+        "title": "Mystery Mystery Chronicle Quest",
+        "author": "Christina Smith",
+        "price": 61.59,
+        "stock": 23
+    },
+    {
+        "isbn": "6764218742915",
+        "title": "Mystery A Quest Legend",
+        "author": "Michelle Davis",
+        "price": 54.06,
+        "stock": 32
+    },
+    {
+        "isbn": "5067925775140",
+        "title": "Chronicle Adventure Quest Legend",
+        "author": "Alice Garcia",
+        "price": 6.62,
+        "stock": 17
+    },
+    {
+        "isbn": "3118745105264",
+        "title": "Adventure A The Legend",
+        "author": "Jane Jones",
+        "price": 87.89,
+        "stock": 42
+    },
+    {
+        "isbn": "8926058933139",
+        "title": "The Legend Quest The",
+        "author": "Alex Miller",
+        "price": 41.97,
+        "stock": 25
+    },
+    {
+        "isbn": "2803213556498",
+        "title": "Chronicle Legend Mystery Mystery",
+        "author": "Alex Miller",
+        "price": 49.89,
+        "stock": 8
+    },
+    {
+        "isbn": "5204772051435",
+        "title": "The Adventure An A",
+        "author": "Chris Davis",
+        "price": 54.83,
+        "stock": 10
+    },
+    {
+        "isbn": "4082811967988",
+        "title": "An Quest Quest Legend",
+        "author": "John Brown",
+        "price": 63.39,
+        "stock": 29
+    },
+    {
+        "isbn": "0196634612073",
+        "title": "An Journey Saga Chronicle",
+        "author": "Christina Brown",
+        "price": 37.13,
+        "stock": 20
+    },
+    {
+        "isbn": "4231505075667",
+        "title": "Chronicle The Legend Quest",
+        "author": "John Jones",
+        "price": 35.75,
+        "stock": 8
+    },
+    {
+        "isbn": "8819268913755",
+        "title": "Adventure Legend Saga An",
+        "author": "Alex Garcia",
+        "price": 80.46,
+        "stock": 37
+    },
+    {
+        "isbn": "8594759465049",
+        "title": "The Chronicle Saga Adventure",
+        "author": "Jane Garcia",
+        "price": 8.5,
+        "stock": 20
+    },
+    {
+        "isbn": "1073715785897",
+        "title": "Legend Saga The The",
+        "author": "Jane Johnson",
+        "price": 22.81,
+        "stock": 23
+    },
+    {
+        "isbn": "3734443725071",
+        "title": "Quest Saga A Quest",
+        "author": "Alice Johnson",
+        "price": 94.07,
+        "stock": 3
+    },
+    {
+        "isbn": "5203632322304",
+        "title": "A Chronicle Journey Legend",
+        "author": "Jane Smith",
+        "price": 43.87,
+        "stock": 41
+    },
+    {
+        "isbn": "9584811831925",
+        "title": "Legend Journey Chronicle Legend",
+        "author": "Michelle Davis",
+        "price": 30.17,
+        "stock": 34
+    },
+    {
+        "isbn": "2250095437009",
+        "title": "An Chronicle Adventure An",
+        "author": "Alex Jones",
+        "price": 60.67,
+        "stock": 32
+    },
+    {
+        "isbn": "8311057743419",
+        "title": "The An Chronicle Saga",
+        "author": "Chris Garcia",
+        "price": 67.67,
+        "stock": 27
+    },
+    {
+        "isbn": "2895254622323",
+        "title": "Mystery A A Chronicle",
+        "author": "Michelle Smith",
+        "price": 47.11,
+        "stock": 24
+    },
+    {
+        "isbn": "0440607497766",
+        "title": "Adventure Saga The Chronicle",
+        "author": "Alex Williams",
+        "price": 39.9,
+        "stock": 28
+    },
+    {
+        "isbn": "9382425019901",
+        "title": "Quest The Saga Legend",
+        "author": "Alice Davis",
+        "price": 56.32,
+        "stock": 40
+    },
+    {
+        "isbn": "8538139229397",
+        "title": "Chronicle Adventure An Chronicle",
+        "author": "Alice Johnson",
+        "price": 27.38,
+        "stock": 47
+    },
+    {
+        "isbn": "0214217876310",
+        "title": "Quest An Saga Quest",
+        "author": "Alex Smith",
+        "price": 71.0,
+        "stock": 40
+    },
+    {
+        "isbn": "6088949804021",
+        "title": "Mystery Mystery Chronicle Quest",
+        "author": "Alice Williams",
+        "price": 98.71,
+        "stock": 7
+    },
+    {
+        "isbn": "1516350742045",
+        "title": "Quest Quest Mystery A",
+        "author": "Alex Smith",
+        "price": 55.97,
+        "stock": 48
+    },
+    {
+        "isbn": "4888470078721",
+        "title": "The Mystery Adventure The",
+        "author": "John Garcia",
+        "price": 71.38,
+        "stock": 42
+    },
+    {
+        "isbn": "1448541221742",
+        "title": "Legend Saga Adventure Chronicle",
+        "author": "Michael Smith",
+        "price": 59.45,
+        "stock": 12
+    },
+    {
+        "isbn": "3543013866432",
+        "title": "Mystery A Journey Quest",
+        "author": "Alex Brown",
+        "price": 20.19,
+        "stock": 3
+    },
+    {
+        "isbn": "6579428929954",
+        "title": "The A Legend Chronicle",
+        "author": "Jane Johnson",
+        "price": 61.16,
+        "stock": 7
+    },
+    {
+        "isbn": "7994544968150",
+        "title": "Quest Adventure Legend A",
+        "author": "Christina Williams",
+        "price": 6.2,
+        "stock": 23
+    },
+    {
+        "isbn": "4510670032372",
+        "title": "Mystery Saga A A",
+        "author": "Alice Davis",
+        "price": 12.07,
+        "stock": 11
+    },
+    {
+        "isbn": "9618313562324",
+        "title": "An Adventure A Adventure",
+        "author": "Alex Davis",
+        "price": 59.21,
+        "stock": 14
+    },
+    {
+        "isbn": "6611201325485",
+        "title": "Journey Mystery Quest Chronicle",
+        "author": "John Garcia",
+        "price": 46.81,
+        "stock": 22
+    },
+    {
+        "isbn": "5457877943271",
+        "title": "Quest Quest Mystery Chronicle",
+        "author": "Christina Jones",
+        "price": 63.4,
+        "stock": 4
+    }
+]
